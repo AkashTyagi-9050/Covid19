@@ -1,0 +1,32 @@
+Questions
+
+---------------
+
+
+
+How many rows and columns does the dataset contain?
+
+List all the countries available in the dataset.
+
+Find the total number of confirmed cases worldwide.
+
+Find the country with the maximum total confirmed cases.
+
+Find the country with the minimum total deaths (but non-zero).
+
+Get the top 5 countries by total tests conducted.
+
+Find the average positivity rate (cases/tests) across all countries.
+
+Compare the growth rate of confirmed cases between two countries.
+
+Find the correlation between number of tests and number of confirmed cases across countries.
+
+Rank countries by infection rate (cases per million population).
+
+Rank countries by mobility rate (deaths per million).
+
+Find the date when a chosen country reported its highest number of cases.
+
+
+

@@ -1,0 +1,20 @@
+Questions
+
+-----------------------
+
+Top 10 countries with highest confirmed cases
+Top 10 countries with highest deaths
+comparison of Top 10 countries with mobility
+Comparison of Top 10 countries with stringency
+monthly comparison with infection rate ['India', 'Brazil', 'United States of America']
+monthly comparison with positivity rate ['India', 'Brazil', 'United States of America']
+correlation between cases, deaths, and tests
+tests vs. confirmed cases
+monthly new cases for country India, USA, Brazil, Russia, Mexico
+stringency comparison between India and Pakistan
+mobility comparison between India and Pakistan
+
+
+
+
+

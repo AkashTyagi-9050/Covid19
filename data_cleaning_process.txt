@@ -2,9 +2,9 @@ Problems:
 
 --> Found data quality issues, fix missing and inconsistent values.
 --> tests, avg_mobility have ~50% missing values
---> Found Several very small territories (Antarctica, Bouvet Island, etc.) show only 24 rows and many NaNs for the above columns.
-	country_name, year, and month are complete (no NaNs).
---> Convert integer-like float columns to more efficient integer types (int32).
+--> Found Several very small territories (Antarctica, Bouvet Island, etc.) have only 24 rows and many Nan's values for the above countries.
+	For country_name, year, and month columns have 100% missing values.
+--> Many columns have flat type values. For more efficiency need to convert to integer types (int32).
 
 
 Solutions:
@@ -15,5 +15,7 @@ Solutions:
 
 # Removed the countries where max columns has Nan values. 
 
-# changed data types for columns ( confirmed, deaths, tests, vaccinations, elderly_pop, population ) having float data types changed it to integer
+# changed data types for columns ( confirmed, deaths, tests, vaccinations, elderly_pop, population ) having float data types changed it to integer.
+
+
 
